@@ -1,2 +1,1 @@
-# slack-bot-repl
-REPL bot for Slack
+# JS REPL for Slack
